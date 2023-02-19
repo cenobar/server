@@ -1,0 +1,1 @@
+vmess://YXV0bzoxMDE1Nzc1ZS02MThjLTQ5ZDktYmU5OS03ZWMwNGUxYTU3MmVAY2FudmEuY29tOjQ0Mw?remarks=vmess-ws-tls&obfsParam=personal.tx5hdcxvhj.workers.dev&path=/uk-freevmess.privateip.net/freevmess&obfs=websocket&tls=1&peer=personal.tx5hdcxvhj.workers.dev&alterId=0}
